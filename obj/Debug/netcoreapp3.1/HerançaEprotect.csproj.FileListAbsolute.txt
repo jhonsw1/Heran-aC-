@@ -1,0 +1,11 @@
+C:\Users\Jonathan Mantovani\Documents\Aulas C#\HerançaEprotect\HerançaEprotect\bin\Debug\netcoreapp3.1\HerançaEprotect.exe
+C:\Users\Jonathan Mantovani\Documents\Aulas C#\HerançaEprotect\HerançaEprotect\bin\Debug\netcoreapp3.1\HerançaEprotect.deps.json
+C:\Users\Jonathan Mantovani\Documents\Aulas C#\HerançaEprotect\HerançaEprotect\bin\Debug\netcoreapp3.1\HerançaEprotect.runtimeconfig.json
+C:\Users\Jonathan Mantovani\Documents\Aulas C#\HerançaEprotect\HerançaEprotect\bin\Debug\netcoreapp3.1\HerançaEprotect.runtimeconfig.dev.json
+C:\Users\Jonathan Mantovani\Documents\Aulas C#\HerançaEprotect\HerançaEprotect\bin\Debug\netcoreapp3.1\HerançaEprotect.dll
+C:\Users\Jonathan Mantovani\Documents\Aulas C#\HerançaEprotect\HerançaEprotect\bin\Debug\netcoreapp3.1\HerançaEprotect.pdb
+C:\Users\Jonathan Mantovani\Documents\Aulas C#\HerançaEprotect\HerançaEprotect\obj\Debug\netcoreapp3.1\HerançaEprotect.csprojAssemblyReference.cache
+C:\Users\Jonathan Mantovani\Documents\Aulas C#\HerançaEprotect\HerançaEprotect\obj\Debug\netcoreapp3.1\HerançaEprotect.AssemblyInfoInputs.cache
+C:\Users\Jonathan Mantovani\Documents\Aulas C#\HerançaEprotect\HerançaEprotect\obj\Debug\netcoreapp3.1\HerançaEprotect.AssemblyInfo.cs
+C:\Users\Jonathan Mantovani\Documents\Aulas C#\HerançaEprotect\HerançaEprotect\obj\Debug\netcoreapp3.1\HerançaEprotect.dll
+C:\Users\Jonathan Mantovani\Documents\Aulas C#\HerançaEprotect\HerançaEprotect\obj\Debug\netcoreapp3.1\HerançaEprotect.pdb
